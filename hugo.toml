@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yoichibeer.github.io/craft-sake-pages/'
+canonifyURLs = true
 languageCode = 'ja-JP'
 title = 'My New Hugo Site'
 theme = 'ananke'

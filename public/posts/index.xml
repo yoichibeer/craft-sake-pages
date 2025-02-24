@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://yoichibeer.github.io/craft-sake-pages/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 24 Feb 2025 12:24:32 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yoichibeer.github.io/craft-sake-pages/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
+      <link>https://yoichibeer.github.io/craft-sake-pages/posts/my-third-post/</link>
       <pubDate>Mon, 24 Feb 2025 12:24:32 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description>&lt;div style=&#34;display: flex; align-items: flex-start; margin-bottom: 1em;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/juyondai.png&#34; alt=&#34;サンプル画像&#34; style=&#34;max-width: 200px; margin-right: 20px;&#34;&gt;&#xA;    &lt;div&gt;&#xA;        &lt;p&gt;高木酒造株式会社（山形県）&lt;/p&gt;&#xA;        &lt;p&gt;純米吟醸&lt;/p&gt;&#xA;        &lt;p&gt;精米歩合 60%&lt;/p&gt;&#xA;        &lt;p&gt;アルコール度数 18%&lt;/p&gt;&#xA;        &lt;p&gt;麹米:山田錦 掛米:山田錦&lt;/p&gt;&#xA;        &lt;p&gt;酵母 協会10号&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2&gt;メモ&lt;/h2&gt;&#xA;&lt;p&gt;xxxxxxxxxx&lt;/p&gt;&#xA;&#xA;&lt;h2&gt;指標&lt;/h2&gt;&#xA;&lt;p&gt;&lt;/p&gt;旨味 ★★★★★&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;酸味 ★★★&lt;/p&gt;</description>
+      <guid>https://yoichibeer.github.io/craft-sake-pages/posts/my-third-post/</guid>
+      <description>&lt;div style=&#34;display: flex; align-items: flex-start; margin-bottom: 1em;&#34;&gt;&#xA;    &lt;img src=&#34;https://yoichibeer.github.io/craft-sake-pages/images/juyondai.png&#34; alt=&#34;サンプル画像&#34; style=&#34;max-width: 200px; margin-right: 20px;&#34;&gt;&#xA;    &lt;div&gt;&#xA;        &lt;p&gt;高木酒造株式会社（山形県）&lt;/p&gt;&#xA;        &lt;p&gt;純米吟醸&lt;/p&gt;&#xA;        &lt;p&gt;精米歩合 60%&lt;/p&gt;&#xA;        &lt;p&gt;アルコール度数 18%&lt;/p&gt;&#xA;        &lt;p&gt;麹米:山田錦 掛米:山田錦&lt;/p&gt;&#xA;        &lt;p&gt;酵母 協会10号&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2&gt;メモ&lt;/h2&gt;&#xA;&lt;p&gt;xxxxxxxxxx&lt;/p&gt;&#xA;&#xA;&lt;h2&gt;指標&lt;/h2&gt;&#xA;&lt;p&gt;&lt;/p&gt;旨味 ★★★★★&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;酸味 ★★★&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://yoichibeer.github.io/craft-sake-pages/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://yoichibeer.github.io/craft-sake-pages/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;p&gt;aaaa&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post 日本語いけるかな</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
+      <link>https://yoichibeer.github.io/craft-sake-pages/posts/my-second-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/juyondai.png&#34; alt=&#34;画像&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;高木酒造株式会社（山形県）&lt;/p&gt;&#xA;&lt;p&gt;純米吟醸&lt;/p&gt;&#xA;&lt;p&gt;精米歩合 60%&lt;/p&gt;&#xA;&lt;p&gt;アルコール度数 18%&lt;/p&gt;&#xA;&lt;p&gt;麹米:山田錦 掛米:山田錦&lt;/p&gt;&#xA;&lt;p&gt;酵母 協会10号&lt;/p&gt;&#xA;&lt;h2 id=&#34;メモ&#34;&gt;メモ&lt;/h2&gt;&#xA;&lt;p&gt;xxxxxxxxxxxxxxxxxxxxx&lt;/p&gt;&#xA;&lt;h2 id=&#34;指標&#34;&gt;指標&lt;/h2&gt;&#xA;&lt;p&gt;旨味 ★★★★★&lt;/p&gt;&#xA;&lt;p&gt;酸味 ★★★&lt;/p&gt;</description>
+      <guid>https://yoichibeer.github.io/craft-sake-pages/posts/my-second-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://yoichibeer.github.io/craft-sake-pages/images/juyondai.png&#34; alt=&#34;画像&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;高木酒造株式会社（山形県）&lt;/p&gt;&#xA;&lt;p&gt;純米吟醸&lt;/p&gt;&#xA;&lt;p&gt;精米歩合 60%&lt;/p&gt;&#xA;&lt;p&gt;アルコール度数 18%&lt;/p&gt;&#xA;&lt;p&gt;麹米:山田錦 掛米:山田錦&lt;/p&gt;&#xA;&lt;p&gt;酵母 協会10号&lt;/p&gt;&#xA;&lt;h2 id=&#34;メモ&#34;&gt;メモ&lt;/h2&gt;&#xA;&lt;p&gt;xxxxxxxxxxxxxxxxxxxxx&lt;/p&gt;&#xA;&lt;h2 id=&#34;指標&#34;&gt;指標&lt;/h2&gt;&#xA;&lt;p&gt;旨味 ★★★★★&lt;/p&gt;&#xA;&lt;p&gt;酸味 ★★★&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
